@@ -51,4 +51,4 @@ Ce projet est sous licence [MIT](LICENSE).
 
 ## Contact
 
-Pour toute question ou suggestion, contactez l'équipe EPI'Gency Digital à [contact@epigencydigital.com](mehmet.alkaya@epitech.digital)
+Pour toute question ou suggestion, contactez l'équipe EPI'Gency Digital à [mehmet.alkaya@epitech.digital](mehmet.alkaya@epitech.digital)
