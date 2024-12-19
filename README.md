@@ -47,8 +47,8 @@ Scoolize propose une solution basée sur quatre modules pour répondre à cet ob
 📂 Scoolize
 
 │── 📄 AUDIT.pdf
-├── 📄 FLAYER.pfd
-│── 📄 ChangeManagement.md
+├── 📄 FLYER.pfd
+│── 📄 RENDUE.txt
 │── 📄 BusinessModel.md
 └── 📄 README.md
 ```
