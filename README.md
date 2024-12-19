@@ -6,8 +6,6 @@ Scoolize est un projet innovant conçu pour transformer et simplifier l'orientat
 
 Scoolize propose une solution basée sur quatre modules pour répondre à cet objectif. Le projet vise à offrir deux résultats majeurs :
 
-- **Create Prepare (pour les écoles)** : Déclarer de manière transparente les compétences requises pour être sélectionné.
-- **Create Predict (pour les étudiants)** : Télécharger les scores et découvrir quelles formations correspondent le mieux à leur profil.
 
 ## Objectifs
 
