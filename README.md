@@ -40,39 +40,16 @@ Scoolize propose une solution basée sur quatre modules pour répondre à cet ob
 - L'objectif est de livrer des paquets spécifiques à des échéances précises, sans utiliser de framework comme Bootstrap.
 - Le projet sera évalué par des pairs pour désigner le meilleur projet.
 
-## Technologies
-
-- **Frontend** : Framework et outils autonomes, sans Bootstrap.
-- **Backend** : Technologies au choix, respectant les contraintes de gestion des données.
-- **Data Visualization** : Utilisation d'outils personnalisés pour présenter des insights exploitables.
-
-## Pratiques recommandées
-
-- **Collaboration active** : Favorisez une communication régulière entre les membres de l'équipe.
-- **Documentation claire** : Maintenez une documentation complète pour chaque étape du projet.
-- **Livraison itérative** : Respectez les échéances définies pour la livraison des paquets.
-- **Conformité GRPD** : Assurez-vous que toutes les pratiques respectent les réglementations en matière de protection des données personnelles.
 
 ## Structure du dépôt
 
 ```
 📂 Scoolize
-├── 📂 frontend
-│   ├── 📂 components
-│   ├── 📂 styles
-│   └── 📄 README.md
-├── 📂 backend
-│   ├── 📂 services
-│   ├── 📂 models
-│   └── 📄 README.md
-├── 📂 data
-│   ├── 📂 datasets
-│   └── 📄 README.md
-├── 📂 docs
-│   ├── 📄 GRPD.md
-│   ├── 📄 SLA.md
-│   ├── 📄 ChangeManagement.md
-│   └── 📄 BusinessModel.md
+
+│── 📄 AUDIT.pdf
+├── 📄 FLAYER.pfd
+│── 📄 ChangeManagement.md
+│── 📄 BusinessModel.md
 └── 📄 README.md
 ```
 
@@ -90,4 +67,4 @@ Ce projet est sous licence [MIT](LICENSE).
 
 ## Contact
 
-Pour toute question ou suggestion, contactez l'équipe EPI'Gency Digital à [contact@epigencydigital.com](mailto:contact@epigencydigital.com).
+Pour toute question ou suggestion, contactez l'équipe EPI'Gency Digital à [contact@epigencydigital.com](mehmet.alkaya@epitech.digital)
